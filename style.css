@@ -1,0 +1,24 @@
+body,
+h1,
+footer > p {
+  margin: 0;
+}
+
+body > header,
+footer {
+  color: white;
+  background-color: #4388f7;
+  padding: 1em;
+}
+
+footer > p {
+  text-align: center;
+}
+
+header ul {
+  list-style: none;
+}
+
+header a {
+  color: white;
+}
